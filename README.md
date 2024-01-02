@@ -46,15 +46,18 @@ This is the template login details to use the bank functionality. The project do
 
 ##### welcome page
 
-<img src= "screenshots/welcome-page.png" alt ="welcome page" height = '100'/>
+![userAccount](https://github.com/Sujitroy98/Bankist-v2-web-app/assets/115344822/4361d0cd-09f9-4ed7-87ae-084888f5e25c)
+
 
 ##### log in page
 
-<img src= "screenshots/login-page.png" alt ="log in page" height = '100'/>
+![loginPage](https://github.com/Sujitroy98/Bankist-v2-web-app/assets/115344822/e054edb8-0a29-4872-bf19-16373ff403df)
+
 
 ##### user account
 
-<img src = "screenshots/user-account.png" alt= 'user account' height = '100' />
+![userAccount](https://github.com/Sujitroy98/Bankist-v2-web-app/assets/115344822/4361d0cd-09f9-4ed7-87ae-084888f5e25c)
+
 
 ## Technologies Used
 
