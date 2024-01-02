@@ -1,4 +1,4 @@
-# Bankist
+# 💰Bankist
 
 <a href="https://bankist-v2-web-app.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
 
@@ -7,7 +7,7 @@ Everything you need in a modern bank and more.
 · Watch your money grow
 · Free debit card included.
 
-## What is Bankist?
+## 💹What is Bankist?
 
 Bankist is a fictional online bank. It is a project introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> in order to practice DOM manipulation and user interaction. Bankist has the option to log in to the account and use different functionalities, almost like in an actual bank!
 
